@@ -1,6 +1,6 @@
-# fapp
+# flutter_app
 
-My Flutter Aplication
+A new Flutter application.
 
 ## Getting Started
 
